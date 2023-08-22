@@ -10,6 +10,7 @@ public class DbConn {
 	private static DbConn dbConn;
 
 	private DbConn() {
+		//이것은 생성자
 		
 	}
 	

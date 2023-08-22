@@ -14,6 +14,7 @@ public class EmpDAO {
 	private static EmpDAO eDAO;
 	
 	private EmpDAO() {
+		//이것도 생성자
 		
 	}
 	
